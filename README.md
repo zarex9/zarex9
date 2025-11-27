@@ -49,33 +49,4 @@
 
 ---
 
-### ✨ Personal flair (copy & paste)
 
-> Add this small signature block under your bio for a coder vibe:
-
-```md
-**⚡ Fun facts**
-- 🕒 Active late-night committer
-- 🎯 I prefer simple, auditable smart contracts
-- 🎨 Love minimal, bold readme art
-```
-
----
-
-### 🧭 How to use this README
-
-1. Go to your GitHub profile repo: `zarex9/zarex9` (create it if missing).
-2. Add a `README.md` with this content.
-3. Commit & push — your profile will update automatically.
-
----
-
-### ✍️ Want it more *unique*?
-
-I can:
-
-* Generate a custom SVG logo (one-line) for the top.
-* Create an animated GitHub README using shields & GitHub Actions.
-* Make a minimal, dark-theme README version.
-
-Tell me which option you like — I’ll update the file.
