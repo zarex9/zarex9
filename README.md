@@ -1,52 +1,91 @@
-# 👩🏽‍🚀 UMAIR
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zarex9&theme=transparent&hide_border=true" width="600"/>
+</p>
 
-> **Web3 Strategist · Automation Engineer · Builder of stealth, scalable dapps**
+<h1 align="center">👨‍🚀 zarex9 — Umair</h1>
+<p align="center"><b>Web3 Developer · Automation Engineer · Multi-Chain Builder</b></p>
 
-```
-   ____              _            _   _
-  / ___|__ _ _ __ __| | ___ _ __ | |_| |__   ___ _ __
- | |   / _` | '__/ _` |/ _ \ '_ \| __| '_ \ / _ \ '__|
- | |__| (_| | | | (_| |  __/ | | | |_| | | |  __/ |
-  \____\__,_|_|  \__,_|\___|_| |_|\__|_| |_|\___|_|
-
-  coder • chain-hopper • midnight-committer
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0CF7E8&center=true&vCenter=true&width=650&lines=Building+Stealth+dApps+%7C+Automation+Engineer;Cross-Chain+NFT+Mints+%7C+Smart+Contract+Integrations;WalletConnect+Flows+%7C+Mobile-First+dApps;Scaling+Web3+with+Automation+and+Research" />
+</p>
 
 ---
 
-### 🔭 Current focus
-
-* Building cross-chain NFT mints (Base • Arbitrum • Celo)
-* Wallet-connect flows and mobile-first dapp UX
-* Automation for CI & deploy — reduce manual steps, ship faster
-
-### 🛠️ Skills & Stack
-
-* **Languages:** TypeScript, JavaScript, Go, Solidity (basic)
-* **Web3:** WalletConnect, Ethers.js, Hardhat, Base, Arbitrum, Celo
-* **Infra:** GitHub Actions, Docker, Vercel, Cloudflare
-* **Other:** React, Next.js, Tailwind, Recharts
-
-### 🚀 Highlights
-
-* 100+ commits in a single month — shipping fast and iterating
-* Built mint flows across multiple chains and mobile wallets
-* Active in open-source — opened & reviewed many PRs and Issues
-
-### 🔧 Quick links
-
-* Repo highlights: `Multiple-chains-mint`, `metamask-wallet-connect`, `ultra-defi`
-* Portfolio / Mini-app: [https://farcaster.xyz/umair](https://farcaster.xyz/umair)
+## 🚀 Current Focus
+- Cross-chain NFT mints (Base • Arbitrum • Celo)
+- WalletConnect flows & secure mint pipelines  
+- Smart contract automation (CI/CD)
+- Mobile-first interactions for dApps  
 
 ---
 
-### 📈 GitHub Stats (place these in your README using cards)
+## 🛠️ Skills & Tech Stack
 
-* **Top languages**: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarex9\&layout=compact)
-* **Profile stats**: ![Stats](https://github-readme-stats.vercel.app/api?username=zarex9\&show_icons=true\&count_private=true)
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
 
-> Tip: Replace `zarex9` with `mumair738` if you want stats of that username instead.
+### **Web3**
+<p>
+  <img src="https://img.shields.io/badge/Ethers.js-293462?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white"/>
+</p>
+
+### **Infra / Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-00C7FA?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2C2F33?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 ---
 
+## 🧩 Featured Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Multi-Chain Mint dApp** | NFT mint across Base, Arbitrum, Celo | Solidity • Hardhat • Next.js • WC |
+| **Automation CI Engine** | Auto deploy, test, lint, verify | GitHub Actions • Docker |
+| **Web3 Dashboard** | On-chain wallet analytics & execution | Ethers.js • React • Tailwind |
 
+---
+
+## 🧪 Open Source Contributions
+| Repository | PR |
+|-----------|----|
+| ethereum/execution-specs | #1448 |
+| ethereum/execution-specs | #1632 |
+| NexaFx-contract | #34 |
+| CarmineOptions/derisk-research | #643 |
+| CarmineOptions/derisk-research | #644 |
+
+> _Open-source = co-building the next generation of decentralized infra_
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zarex9&theme=algolia&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarex9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarex9&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarex9&theme=tokyonight&hide_border=true" />
+</p>
+
+--
