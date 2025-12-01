@@ -3,7 +3,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zarex9&theme=transparent&hide_border=true" width="600"/>
 </p>
 
-<h1 align="center">👨‍🚀 Umair</h1>
+<h1 align="center">👨‍🚀 zarex</h1>
 <p align="center"><b>Web3 Developer · Automation Engineer · Multi-Chain Builder</b></p>
 
 <p align="center">
